@@ -2,8 +2,6 @@
 
 <img width="220" alt="Captura de pantalla 2024-02-26 131050" src="https://github.com/MiguelMoya89/GameBlock/assets/127111987/6bb70922-b25f-4b58-955a-99c405686fa7">
 
-<img width="218" alt="Captura de pantalla 2024-02-26 131342" src="https://github.com/MiguelMoya89/GameBlock/assets/127111987/a0aa2501-85de-48de-81a7-c24708ac2e4f">
-
 <img width="212" alt="Captura de pantalla 2024-02-26 130929" src="https://github.com/MiguelMoya89/GameBlock/assets/127111987/87dc7d90-73d4-4e3d-b6c6-019891e92e5d">
 
 
